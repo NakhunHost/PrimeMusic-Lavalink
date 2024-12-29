@@ -38,13 +38,13 @@ module.exports = {
 
   nodes: [
     {
-        name: "Server",
-        host: "lavalink.oddcoder.xyz",
+        name: "node2",
+        host: "node.oppailober.fun:5569",
         port: 443,
-        password: "oddcoder",
+        password: "Kronix",
         reconnectTimeout: 5000,
         reconnectTries: Infinity,
-        secure: true
+        secure: false
     },
  ]
 }
