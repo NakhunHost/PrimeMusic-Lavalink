@@ -38,13 +38,13 @@ module.exports = {
 
   nodes: [
     {
-        name: "Koi Node V4",
-        host: "lavav4.prplmoe.me",
-        port: 1118,
-        password: "horizxon.tech",
-        reconnectTimeout: 5000,
-        reconnectTries: Infinity,
-        secure: false
+{
+  "identifier": "Koi Node V4",
+  "password": "prplmoe.me",
+  "host": "lavav4.prplmoe.me",
+  "port": 1118,
+  "secure": false
+}
     },
  ]
 }
