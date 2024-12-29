@@ -38,13 +38,13 @@ module.exports = {
 
   nodes: [
     {
-        name: "node2",
-        host: "node.oppailober.fun:5569",
+        name: "server",
+        host: "v3.lavalink.rocks",
         port: 443,
-        password: "Kronix",
+        password: "horizxon.tech",
         reconnectTimeout: 5000,
         reconnectTries: Infinity,
-        secure: false
+        secure: true
     },
  ]
 }
