@@ -40,9 +40,9 @@ module.exports = {
     {
 {
 name: "node2",
-host: "node.oppailober.fun:5569",
-port: 443,
-password: "Kronix",
+host: "180.188.226.76",
+port: 7019,
+password: "enteryourcustompass",
 reconnectTimeout: 5000,
 reconnectTries: Infinity,
 secure: false
